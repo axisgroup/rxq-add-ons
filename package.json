@@ -1,6 +1,6 @@
 {
   "name": "rxq-add-ons",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Add on operators for RxQ",
   "main": "_cjs/index.js",
   "module": "_esm5/index.js",
